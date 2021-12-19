@@ -1,5 +1,5 @@
 # h2app
-Simple REST API using h2 databasae
+Simple Spring boot REST API using h2 database
 
 
 
