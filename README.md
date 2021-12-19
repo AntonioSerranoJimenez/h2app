@@ -40,7 +40,7 @@ Have IntelliJ IDE and OpenJDK 17 installed.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-http://localhost:8080/h2-api to access to the database management website.
+http://localhost:8080/h2-ui to access to the database management website.
 
 http://localhost:8080/api/tutorials to access to the end-point.
 
